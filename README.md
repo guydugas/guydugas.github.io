@@ -11,3 +11,6 @@ https://github.com/guydugas/guydugas.github.io/
 And, soon, you can see my customized homepage at:
 
 http://guydugas.github.io/
+
+I added this line at the end
+
